@@ -11,7 +11,7 @@ var largeListOfNotes = [
   "don't know",
   "judgement thought",
   "processing thought",
-  "meta",
+  "kindness",
   "pain",
   "stiffness",
   "opening",
